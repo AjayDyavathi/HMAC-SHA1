@@ -1,3 +1,9 @@
+#! usr/bin/python3
+# HMAC-SHA1
+# author: Ajay Dyavathi
+
+
+
 from SHA1 import SHA1
 
 class HMAC():
